@@ -1,0 +1,2 @@
+# currencyAPI
+exchange rates API
